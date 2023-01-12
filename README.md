@@ -14,6 +14,6 @@ Hi there 👋　 I'm Kosuke
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Kosuke-Tanoue-KT"/>
 </p>
 
-## 🔗　link
+## 🔗 link
 * [GitHub](https://github.com/Kosuke-Tanoue-KT)
 * [OpenProcessing](https://openprocessing.org/user/314875?o=2&view=sketches)
