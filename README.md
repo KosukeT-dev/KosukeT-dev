@@ -9,11 +9,11 @@ Hi there 👋　 I'm Kosuke
 
 ## 😀 status
 
-<p align="center">
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosuke-Tanoue-KT"/>
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Kosuke-Tanoue-KT"/>
-</p>
 
 <p align="center">
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Kosuke-Tanoue-KT"/>
 </p>
+
+## 🔗　link
+* [GitHub](https://github.com/Kosuke-Tanoue-KT)
+* [OpenProcessing](https://openprocessing.org/user/314875?o=2&view=sketches)
