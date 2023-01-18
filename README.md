@@ -5,7 +5,7 @@ Hi there 👋　 I'm Kosuke
 ## 👦🏻 profile
 
 🏫 I'm a high school student. <br>
-🌱 I'm currently learning JavaScript, Express(Node.js).
+🌱 I'm currently learning JavaScript, Express(Node.js), and WordPress.
 
 ## 😀 status
 
