@@ -5,13 +5,13 @@ Hi there 👋　 I'm Kosuke
 ## 👦🏻 profile
 
 🏫 I'm a high school student. <br>
-🌱 I'm currently learning JavaScript, Express(Node.js), and WordPress.
+🌱 I'm currently learning JavaScript, Express(Node.js), and WordPress.<br>
+👜 I'm a minimalist.
 
 ## 😀 status
-
-
-<p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Kosuke-Tanoue-KT"/>
+<p align="center" >
+  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kosuke-Tanoue-KT"/>  
+  <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosuke-Tanoue-KT&layout=compact"/>
 </p>
 
 ## 🔗 link
