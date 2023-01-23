@@ -6,7 +6,8 @@ Hi there 👋　 I'm Kosuke
 
 🏫 I'm a high school student. <br>
 🌱 I'm currently learning JavaScript, Express(Node.js), and WordPress.<br>
-👜 I'm a minimalist.
+👜 I'm a minimalist.<br>
+📕 I like reading books.
 
 ## 😀 status
 <p align="center" >
