@@ -17,7 +17,7 @@ Hi there 👋　 I'm KT!
 </p>
 
 ## 🔗 Link
-* [GitHub](https://github.com/Kosuke-Tanoue-KT)
+* [GitHub](https://github.com/KosukeT-dev)
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
 * [OpenProcessing](https://openprocessing.org/user/314875?o=2&view=sketches)
 * [Twitter](https://twitter.com/happyman_dev)
