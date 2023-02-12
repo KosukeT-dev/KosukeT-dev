@@ -24,3 +24,4 @@ Hi there 👋　 I'm KT!
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)　結果: 健闘賞
+* [N予備校動くWEBページコンテスト2022冬](https://n-contest.web.app/2022/winter/result/index.html) 結果: 健闘賞
