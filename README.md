@@ -12,8 +12,8 @@ Hi there 👋　 I'm KT!
 
 ## 😀 Status
 <p align="center" >
-  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kosuke-Tanoue-KT"/>  
-  <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosuke-Tanoue-KT&layout=compact"/>
+  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KosukeT-dev"/>  
+  <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
 </p>
 
 ## 🔗 Link
