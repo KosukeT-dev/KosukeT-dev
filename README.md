@@ -16,6 +16,10 @@ Hi there 👋　 I'm KT!
   <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
 </p>
 
+## 💡 Productions
+* [#Thanks](https://www.producthunt.com/products/thanks-3)
+* [Simple CatGPT](https://www.producthunt.com/products/simple-catgpt)
+
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
  結果: 健闘賞<br>
