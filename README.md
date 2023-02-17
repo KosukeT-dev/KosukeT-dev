@@ -19,6 +19,9 @@ Hi there 👋　 I'm KT!
 ## 💡 Productions
 * [#Thanks](https://www.producthunt.com/products/thanks-3)
 * [Simple CatGPT](https://www.producthunt.com/products/simple-catgpt)
+* [Bucket List](https://www.producthunt.com/products/bucket-list)
+* [Idea Machine](https://www.producthunt.com/products/idea-machine)
+* [PROMPT COLLECTION](https://www.producthunt.com/products/prompt-collection)
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
