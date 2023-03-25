@@ -5,7 +5,7 @@ Hi there 👋　 I'm KT!
 ## 👦🏻 Profile
 
 🏫 I'm a high school student. <br>
-🌱 I'm currently learning JavaScript, Express(Node.js), and WordPress. <br>
+🌱 I'm currently learning HTML, CSS, JavaScript, Express(Node.js), and WordPress. <br>
 🔍 I'm interested in AI services like ChatGPT, Notion AI. <br>
 👜 I'm a minimalist.<br>
 📕 I like reading books.
