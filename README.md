@@ -24,6 +24,7 @@ Hi there 👋　 I'm KT!
 * [PROMPT COLLECTION](https://www.producthunt.com/products/prompt-collection)
 * [Life Battery](https://www.producthunt.com/products/life-battery)
 * [Everyday Wikipedia Knowledge](https://www.producthunt.com/products/everyday-wikipedia-knowledge)
+* [WikiGPT](https://www.producthunt.com/products/wikigpt)
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
