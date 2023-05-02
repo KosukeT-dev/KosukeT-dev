@@ -16,14 +16,14 @@ Hi there 👋　 I'm KT!
 </p>
 
 ## 💡 Productions
-* [#Thanks](https://www.producthunt.com/products/thanks-3)
-* [Simple CatGPT](https://www.producthunt.com/products/simple-catgpt)
-* [Bucket List](https://www.producthunt.com/products/bucket-list)
-* [Idea Machine](https://www.producthunt.com/products/idea-machine)
-* [PROMPT COLLECTION](https://www.producthunt.com/products/prompt-collection)
-* [Life Battery](https://www.producthunt.com/products/life-battery)
-* [Everyday Wikipedia Knowledge](https://www.producthunt.com/products/everyday-wikipedia-knowledge)
-* [WikiGPT](https://www.producthunt.com/products/wikigpt)
+* [#Thanks](https://www.producthunt.com/posts/thanks-3)
+* [Simple CatGPT](https://www.producthunt.com/posts/simple-catgpt)
+* [Bucket List](https://www.producthunt.com/posts/bucket-list)
+* [Idea Machine](https://www.producthunt.com/posts/idea-machine)
+* [PROMPT COLLECTION](https://www.producthunt.com/posts/prompt-collection)
+* [Life Battery](https://www.producthunt.com/posts/life-battery)
+* [Everyday Wikipedia Knowledge](https://www.producthunt.com/posts/everyday-wikipedia-knowledge)
+* [WikiGPT](https://www.producthunt.com/posts/wikigpt)
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
