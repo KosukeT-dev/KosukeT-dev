@@ -24,7 +24,7 @@ Hi there 👋　 I'm KT!
 * [Life Battery](https://www.producthunt.com/posts/life-battery)
 * [Everyday Wikipedia Knowledge](https://www.producthunt.com/posts/everyday-wikipedia-knowledge)
 * [WikiGPT](https://www.producthunt.com/posts/wikigpt)
-* [Digital Plants](https://www.producthunt.com/posts/digital-green)
+* [Digital Plants](https://www.producthunt.com/posts/digital-plants)
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
