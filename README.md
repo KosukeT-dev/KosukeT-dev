@@ -25,7 +25,7 @@ Hi there 👋　 I'm KT!
 * [Everyday Wikipedia Knowledge](https://www.producthunt.com/posts/everyday-wikipedia-knowledge)
 * [WikiGPT](https://www.producthunt.com/posts/wikigpt)
 * [Digital Plants](https://www.producthunt.com/posts/digital-plants)
-* [Yes Or No](https://www.producthunt.com/posts/yes-or-no-3) 
+* [Yes or No](https://www.producthunt.com/posts/yes-or-no-3) 
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
