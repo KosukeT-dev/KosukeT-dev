@@ -2,6 +2,8 @@
 Hi there 👋　 I'm KT!
 </h1>
 
+![](https://komarev.com/ghpvc/?username=KosukeT-dev&color=blue)
+
 ## 👦🏻 Profile
 
 🌱 I'm currently learning HTML, CSS, JavaScript, Express(Node.js), and WordPress. <br>
