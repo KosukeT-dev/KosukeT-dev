@@ -40,5 +40,5 @@ Hi there 👋　 I'm KT!
 ## 🔗 Link
 * [GitHub](https://github.com/KosukeT-dev)
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
-* [Twitter](https://twitter.com/happyman_life)
+* [Twitter](https://twitter.com/happyman_dev)
 * [Medium](https://medium.com/@KT_dev)
