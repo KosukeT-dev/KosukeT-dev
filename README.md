@@ -44,4 +44,4 @@ Hi there 👋　 I'm KT!
 * [Medium](https://medium.com/@KT_dev)
 
 ## 📁 Portfolio
-
+https://kosuke-t-portfolio.netlify.app/
