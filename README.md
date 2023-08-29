@@ -26,12 +26,13 @@ Hi there 👋　 I'm KT!
 * [PROMPT COLLECTION](https://www.producthunt.com/posts/prompt-collection)
 * [Life Battery](https://www.producthunt.com/posts/life-battery)
 * [Everyday Wikipedia Knowledge](https://www.producthunt.com/posts/everyday-wikipedia-knowledge)
+* [Joke Generator](https://www.producthunt.com/posts/joke-generator)
 * [WikiGPT](https://www.producthunt.com/posts/wikigpt)
 * [Digital Plants](https://www.producthunt.com/posts/digital-plants)
 * [Yes or No](https://www.producthunt.com/posts/yes-or-no-3) 
 * [ChatGPT Prompt Generator](https://www.producthunt.com/posts/chatgpt-prompt-generator-2)
 * [CensorSafe](https://www.producthunt.com/posts/censorsafe)
-* [What Do I Do?](https://www.producthunt.com/products/what-do-i-do)
+* [What Do I Do?](https://www.producthunt.com/posts/what-do-i-do)
 * [4000 Weeks of Your Life](https://www.producthunt.com/posts/4000-weeks-of-your-life)
 
 ## 👣 Achievement
