@@ -42,7 +42,6 @@ Hi there 👋　 I'm KT!
  結果: 健闘賞
 
 ## 🔗 Link
-* [GitHub](https://github.com/KosukeT-dev)
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
 * [Medium](https://medium.com/@KT_dev)
 
