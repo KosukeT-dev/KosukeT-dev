@@ -6,7 +6,7 @@ Hi there 👋　 I'm KT!
 
 ## 👦🏻 Profile
 
-🌱 I'm currently learning HTML, CSS, JavaScript, Express(Node.js), and WordPress. <br>
+🌱 I'm currently learning HTML, CSS, JavaScript. <br>
 🔍 I'm interested in AI services like ChatGPT, Bard. <br>
 👜 I'm a minimalist.<br>
 📕 I like reading books.<br>
