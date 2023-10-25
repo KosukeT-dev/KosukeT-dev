@@ -44,7 +44,6 @@ Hi there 👋　 I'm KT!
 
 ## 🔗 Link
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
-* [Medium](https://medium.com/@KT_dev)
 
 ## 📁 Portfolio
 https://kosuke-t-portfolio.netlify.app/
