@@ -9,7 +9,7 @@ Hi there 👋　 I'm KT!
 🌱 I'm currently learning HTML, CSS, JavaScript. <br>
 🔍 I'm interested in AI services like ChatGPT, Bard. <br>
 👜 I'm a minimalist.<br>
-📕 I like reading books.<br>
+🎥 I like watching YouTube videos.<br>
 🧳 I'd like to become a digital nomad.
 
 ## 😀 Status
