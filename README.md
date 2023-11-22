@@ -35,6 +35,7 @@ Hi there 👋　 I'm KT!
 * [What Do I Do?](https://www.producthunt.com/posts/what-do-i-do)
 * [4000 Weeks of Your Life](https://www.producthunt.com/posts/4000-weeks-of-your-life)
 * [Minimal ToDo](https://www.producthunt.com/posts/minimal-todo)
+* [Idea Rain](https://www.producthunt.com/posts/idea-rain)
 
 ## 👣 Achievement
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
