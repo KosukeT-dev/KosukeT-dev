@@ -8,7 +8,7 @@ Hi there 👋　 I'm KT!
 
 🌱 I'm currently learning Python(Django), Git. <br>
 👍 I can write HTML, CSS, JavaScript. <br>
-🔍 I'm interested in AI services like ChatGPT, Bard. <br>
+🔍 I'm interested in AI services like ChatGPT, Gemini. <br>
 👜 I'm a minimalist.<br>
 🎥 I like watching YouTube videos, reading books.<br>
 🧳 I'd like to become a digital nomad.
