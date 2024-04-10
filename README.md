@@ -6,7 +6,7 @@ Hi there 👋　 I'm KT!
 
 ## 👦🏻 Profile
 
-🌱 I'm currently learning Python(Django), Git. <br>
+🌱 I'm currently learning Python(Django). <br>
 👍 I can write HTML, CSS, JavaScript. <br>
 🔍 I'm interested in AI services like ChatGPT, Gemini. <br>
 👜 I'm a minimalist.<br>
