@@ -47,6 +47,3 @@ Hi there 👋　 I'm KT!
 
 ## 🔗 Link
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
-
-## 📁 Portfolio
-https://kosuke-t-portfolio.netlify.app/
