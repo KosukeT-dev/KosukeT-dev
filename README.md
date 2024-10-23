@@ -6,9 +6,9 @@ Hi there 👋　 I'm KT!
 
 ## 👦🏻 Profile
 
-🌱 I'm currently learning Python(Django). <br>
+🌱 I'm currently learning AI. <br>
 👍 I can write HTML, CSS, JavaScript. <br>
-🔍 I'm interested in AI services like ChatGPT, Gemini. <br>
+🔍 I'm interested in AI services like ChatGPT, Claude. <br>
 👜 I'm a minimalist.<br>
 🎥 I like watching YouTube videos, reading books.<br>
 🧳 I'd like to become a digital nomad.
