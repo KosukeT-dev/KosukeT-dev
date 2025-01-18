@@ -39,12 +39,12 @@ Hi there 👋　 I'm KT!
 * [Idea Rain](https://www.producthunt.com/posts/idea-rain)
 * [Fallin' Bubble Game](https://www.producthunt.com/posts/fallin-bubble-game)
 
-## 👣 Achievement
+## 👣 Achievements
 * [N予備校動くWEBページコンテスト2022夏](https://nyobi-contest2022.web.app/)<br>
  結果: 健闘賞<br>
 * [N予備校動くWEBページコンテスト2022冬](https://n-contest.web.app/2022/winter/result/index.html)<br>
  結果: 健闘賞
 
-## 🔗 Link
+## 🔗 Links
 * [Product Hunt](https://www.producthunt.com/@kt_dev)
 * [My portfolio](https://kosuke-t-portfolio.netlify.app/)
