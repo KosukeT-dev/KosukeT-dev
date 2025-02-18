@@ -19,7 +19,7 @@ Hi there 👋　 I'm KT!
   <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
 </p>
 
-## 💡 Productions
+## 💡 Productions(Product Hunt)
 * [#Thanks](https://www.producthunt.com/posts/thanks-3)
 * [Simple CatGPT](https://www.producthunt.com/posts/simple-catgpt)
 * [Bucket List](https://www.producthunt.com/posts/bucket-list)
