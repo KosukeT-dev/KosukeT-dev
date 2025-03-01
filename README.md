@@ -14,9 +14,9 @@ Hi there 👋　 I'm KT!
 🧳 I'd like to become a digital nomad.
 
 ## 😀 Status
-<p align="center" >
-  <img alt="Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=KosukeT-dev"/>  
-  <img alt="TopLang" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
+<p align="center" display="flex">
+  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KosukeT-dev"/>  
+  <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
 </p>
 
 ## 💡 Productions(Product Hunt)
