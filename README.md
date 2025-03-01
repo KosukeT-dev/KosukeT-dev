@@ -6,7 +6,7 @@ Hi there 👋　 I'm KT!
 
 ## 👦🏻 Profile
 
-🌱 I'm currently learning AI. <br>
+🌱 I'm currently learning Python, AI. <br>
 👍 I can write HTML, CSS, JavaScript. <br>
 🔍 I'm interested in AI services like ChatGPT, Claude. <br>
 👜 I'm a minimalist.<br>
@@ -15,8 +15,8 @@ Hi there 👋　 I'm KT!
 
 ## 😀 Status
 <p align="center" >
-  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KosukeT-dev"/>  
-  <img alt="TopLang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
+  <img alt="Stats" height="150px" width="100%" src="https://github-readme-stats.vercel.app/api?username=KosukeT-dev"/>  
+  <img alt="TopLang" height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeT-dev&layout=compact"/>
 </p>
 
 ## 💡 Productions(Product Hunt)
