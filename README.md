@@ -12,6 +12,7 @@ Hi there 👋　 I'm KT!
 👜 I'm a minimalist.<br>
 🎥 I like watching YouTube videos, reading books.<br>
 🧳 I'd like to become a digital nomad.
+💭 My dream is traveling around the world.
 
 ## 😀 Status
 <p align="center" display="flex">
