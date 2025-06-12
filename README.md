@@ -11,7 +11,7 @@ Hi there 👋　 I'm KT!
 🔍 I'm interested in AI services like ChatGPT, Claude. <br>
 👜 I'm a minimalist.<br>
 🎥 I like watching YouTube videos, reading books.<br>
-🧳 I'd like to become a digital nomad.
+🧳 I'd like to become a digital nomad.<br>
 💭 My dream is traveling around the world.
 
 ## 😀 Status
